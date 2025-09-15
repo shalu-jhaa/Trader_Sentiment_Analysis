@@ -1,5 +1,5 @@
 # Trader_Sentiment_Analysis
-# Trader Sentiment Analysis – Junior Data Scientist Assignment
+# Trader Sentiment Analysis 
 
 ## Overview
 This repository contains the analysis of **Bitcoin market sentiment** and **historical trader performance** from Hyperliquid.  
